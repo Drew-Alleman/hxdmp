@@ -1,5 +1,4 @@
 # hxdmp
-![image](https://user-images.githubusercontent.com/52759042/152038634-3c9f22e3-7d9c-4c99-9646-25a441545da6.png)
 
 # Usage
 ```
